@@ -1,10 +1,10 @@
-{  
+{
   "name": "Hiragana to Katakana",
   "description": "Automatically Convert Hiragana characters to Katakana, in Chrome",
   "version": "0.1",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "author": "Luna Lunapiena",
-  
+
   "content_scripts":
   [
     {
