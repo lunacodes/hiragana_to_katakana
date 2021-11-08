@@ -11,4 +11,6 @@ This is currently an unpackaged extension. In order to run it, you'll need to do
 3. Go to chrome://extensions in your browser (Menu -> More tools -> Extensions) and click `Developer Mode`
 4. Click `Load Unpacked` and select the `hiragana_to_katakana` folder on your computer
 
+You can un-toggle `Developer Mode`, once the extension is added, if you wish. 
+
 I'll update these instructions once the extension is available on the Chrome Web Store.
